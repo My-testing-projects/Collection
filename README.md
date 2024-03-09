@@ -1,10 +1,10 @@
 ## Index
 
 **Projects**
-- [Organista 1.0 Software](https://github.com/aksi1984/Manual-tests/tree/master/Projects/Organista%201.0)
-- [Monsieur Cuisine Software](https://github.com/aksi1984/Manual-tests/tree/master/Projects/Monsieur%20Cuisine)
-- ["Mój Tauron" application](https://github.com/aksi1984/Manual-tests/tree/master/Projects/Tauron%20application)
-- [TestWarez website](https://github.com/aksi1984/Manual-tests/tree/master/Projects/TestWarez%20website)
+- [Organista 1.0 Software]https://github.com/My-testing-projects/Collection/tree/master/Organista%201.0)
+- [Monsieur Cuisine Software](https://github.com/My-testing-projects/Collection/tree/master/Monsieur%20Cuisine)
+- ["Mój Tauron" application](https://github.com/My-testing-projects/Collection/tree/master/Tauron%20application)
+- [TestWarez website](https://github.com/My-testing-projects/Collection/tree/master/TestWarez%20website)
 
 
 ## Monsieur Cuisine Software
