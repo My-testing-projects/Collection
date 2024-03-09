@@ -54,7 +54,7 @@ Used tools:
 
 ![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD)
 
-![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%2300cc00) ![AndroidDriver](https://img.shields.io/badge/AndoidDriver-%230A1A2F?style=flat&logo=Webdriver
+![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%2300cc00) ![AndroidDriver](https://img.shields.io/badge/AndroidDriver-%230A1A2F?style=flat&logo=Webdriver
 ) ![Playwright](https://img.shields.io/badge/Playwright-%230A1A2F?style=flat&logo=Playwright&logoColor=%2345ba4b)
 
 ![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb) 
