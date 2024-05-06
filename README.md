@@ -72,3 +72,5 @@ Within this personal project, I focused on automating tests for https://skleptes
 - Use Case Scenarios
 - Test Cases
 - Test Executions
+
+[Code](https://github.com/Selenium-tests/Generic-Shop-website)
