@@ -52,3 +52,23 @@ Within this personal project, I focused on automating tests for the https://bazy
 - Use Case Scenarios
 - Test Cases
 - Test Executions
+
+---
+
+# Automated Testing for Skleptest.pl
+
+## Project Description
+
+Within this personal project, I focused on automating tests for https://skleptest.pl/, a platform designed for practicing andlearning testing techniques. I utilized Selenium with Java for designing, developing, and maintaining automation testscripts to verify the functionality and behavior of the platform's features. I implemented various test scenarios to coverdifferent aspects such as user authentication, product browsing, cart management, and checkout processes. This homeproject provided me with practical experience in testing automation techniques while familiarizing myself with thechallenges specific to e-learning platforms.
+
+### Used Testing Techniques:
+- Use Case Testing
+- Decision Table Testing
+- Syntax-based Testing
+- Boundary Value Analysis
+
+### Project Contents:
+- Risk Analysis
+- Use Case Scenarios
+- Test Cases
+- Test Executions
