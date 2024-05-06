@@ -17,9 +17,7 @@ Within this project, I was responsible for automating tests for the EriBank mobi
 
 💻 [Code](https://github.com/Appium-tests/EriBank)
 
-![Java](https://img.shields.io/badge/Java-Java?style=plastic&logo=OpenJDK&logoColor=%2331A8FF&logoSize=amg&labelColor=%23333333&color=%23333333
-
-)
+![Java](https://img.shields.io/badge/Java-Java?style=plastic&logo=OpenJDK&logoColor=%2331A8FF&logoSize=amg&labelColor=%23333333&color=%23333333)
 
 ---
 
