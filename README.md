@@ -15,6 +15,8 @@ Within this project, I was responsible for automating tests for the EriBank mobi
 - Test Cases
 - Test Executions
 
+💻 [Code](https://github.com/Appium-tests/EriBank)
+
 ---
 
 # Mobile Automation for bazylika-pszow.pl
@@ -34,6 +36,8 @@ In this project, I focused on learning and gaining experience in testing the mob
 - Test Cases
 - Test Executions
 
+💻 [Code](https://github.com/Appium-tests/Pszow-parish-website)
+
 ---
 
 # Automated Testing for Desktop Version of bazylika-pszow.pl
@@ -52,6 +56,8 @@ Within this personal project, I focused on automating tests for the https://bazy
 - Use Case Scenarios
 - Test Cases
 - Test Executions
+
+💻 [Code](https://github.com/Playwright-tests/Pszow-parish-website)
 
 ---
 
@@ -73,4 +79,4 @@ Within this personal project, I focused on automating tests for https://skleptes
 - Test Cases
 - Test Executions
 
-[Code](https://github.com/Selenium-tests/Generic-Shop-website)
+💻 [Code](https://github.com/Selenium-tests/Generic-Shop-website)
