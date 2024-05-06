@@ -15,13 +15,11 @@ Within this project, I was responsible for automating tests for the EriBank mobi
 - Test Cases
 - Test Executions
 
-
 💻 [Code](https://github.com/Appium-tests/EriBank)
 
 ![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD) ![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%43B02A) ![Appium](https://img.shields.io/badge/Appium-%230A1A2F?style=flat&logo=appium&logoColor=%EE376D) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%4F46DC)
 
 ![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb)
-
 
 ---
 
@@ -44,6 +42,11 @@ In this project, I focused on learning and gaining experience in testing the mob
 
 💻 [Code](https://github.com/Appium-tests/Pszow-parish-website)
 
+![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD) ![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%43B02A) ![Appium](https://img.shields.io/badge/Appium-%230A1A2F?style=flat&logo=appium&logoColor=%EE376D) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%4F46DC)
+
+![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb)
+
+
 ---
 
 # Automated Testing for Desktop Version of bazylika-pszow.pl
@@ -64,6 +67,10 @@ Within this personal project, I focused on automating tests for the https://bazy
 - Test Executions
 
 💻 [Code](https://github.com/Playwright-tests/Pszow-parish-website)
+
+![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD) ![Playwright](https://img.shields.io/badge/Playwright-%230A1A2F?style=flat&logo=Playwright&logoColor=%2EAD33) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%4F46DC)
+
+![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb)
 
 ---
 
@@ -86,3 +93,7 @@ Within this personal project, I focused on automating tests for https://skleptes
 - Test Executions
 
 💻 [Code](https://github.com/Selenium-tests/Generic-Shop-website)
+
+![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD) ![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%43B02A) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%4F46DC)
+
+![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb)
