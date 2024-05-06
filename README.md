@@ -15,6 +15,7 @@ Within this project, I was responsible for automating tests for the EriBank mobi
 - Test Cases
 - Test Executions
 
+
 💻 [Code](https://github.com/Appium-tests/EriBank)
 
 ![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD) ![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%43B02A) ![Appium](https://img.shields.io/badge/Appium-%230A1A2F?style=flat&logo=appium&logoColor=%EE376D) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%4F46DC)
