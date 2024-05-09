@@ -1,65 +1,99 @@
-## Index
+# Mobile Automation for EriBank Application
 
-**Projects**
-- [Monsieur Cuisine Software](https://github.com/My-testing-projects/Collection/tree/master/Monsieur%20Cuisine)
-- [Organista 1.0 Software](https://github.com/My-testing-projects/Collection/tree/master/Organista%201.0)
-- ["Mój Tauron" application](https://github.com/My-testing-projects/Collection/tree/master/Tauron%20application)
-- [TestWarez website](https://github.com/My-testing-projects/Collection/tree/master/TestWarez%20website)
+## Project Description
 
+Within this project, I was responsible for automating tests for the EriBank mobile application using Appium. I designed, implemented, and maintained test automation scripts covering various test scenarios such as login, transaction browsing, and payment handling. Additionally, for test reporting purposes, I integrated the scripts with both Allure and the test management tool - Qase. This project provided me with invaluable experience in Appium and insight into the challenges that can arise during mobile application test automation.
 
-## Monsieur Cuisine Software
+### Used Testing Techniques:
+- Use Case Testing
+- Decision Table Testing
+- Syntax-based Testing
 
-[💻 Link to the site](https://www.monsieur-cuisine.com/pl)
+### Project Contents:
+- Risk Analysis
+- Use Case Scenarios
+- Test Cases
+- Test Executions
 
-It is a multi-functional device for your kitchen with extensive equipment, with lots of recipes with step-by-step instructions, WLAN connection and a 7-inch touchscreen display.
+💻 [Code](https://github.com/Appium-tests/EriBank)
 
-This project containd:
-  -  test project
-  -  test cases
-  -  test runs
+![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD) ![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%43B02A) ![Appium](https://img.shields.io/badge/Appium-%230A1A2F?style=flat&logo=appium&logoColor=%EE376D) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%4F46DC)
 
-Used tools:
+![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb)
 
-![TestRail](https://img.shields.io/badge/TestRail-%230A1A2F?style=flat&logo=TestRail)
+---
 
-[Test reports](https://drive.google.com/drive/folders/1_jTrSFk44w5x8FqTzh025DHh0G_89q-X)
+# Mobile Automation for bazylika-pszow.pl
 
+## Project Description
 
+In this project, I focused on learning and gaining experience in testing the mobile version of the website [bazylika-pszow.pl](https://bazylika-pszow.pl/) using Appium and virtual devices. It provided me with valuable insights into mobile web testing techniques and allowed me to practice using Appium with virtual devices.
 
-## Organista 1.0 software
+### Used Testing Techniques:
+- Use Case Testing
+- Decision Table Testing
+- Syntax-based Testing
 
-The program "Organist 1.0" is used for creating and editing song texts, creating song lists, and exchanging data with the Board Controller. The program allows assigning a number to each song and defining the group to which each song belongs.
+### Project Contents:
+- Risk Analysis
+- Use Case Scenarios
+- Test Cases
+- Test Executions
 
-This project contains:
-  - test runs
+💻 [Code](https://github.com/Appium-tests/Pszow-parish-website)
 
-Used tools:
+![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD) ![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%43B02A) ![Appium](https://img.shields.io/badge/Appium-%230A1A2F?style=flat&logo=appium&logoColor=%EE376D) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%4F46DC)
 
-![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%236875CD) 
-
-
-
-## Pszów parish website
-
-[💻 Link to the site](https://bazylika-pszow.pl/)
-
-This is the official website of the parish of the Nativity of the Blessed Virgin Mary in Pszów. It allows users to browse and search for information about Holy Masses, devotions, and other events taking place in the parish. It also provides a rich gallery of photos and videos commemorating the most important events in the parish.
-
-This project contains:
-  - test plan
-  - test scripts
-  - test runs
-
-Used tools:
-
-![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD)
-
-![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%2300cc00) ![AndroidDriver](https://img.shields.io/badge/AndroidDriver-%230A1A2F?style=flat&logo=Webdriver
-) ![Playwright](https://img.shields.io/badge/Playwright-%230A1A2F?style=flat&logo=Playwright&logoColor=%2345ba4b)
-
-![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb) 
-
-![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%236875CD)
+![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb)
 
 
+---
 
+# Automated Testing for Desktop Version of bazylika-pszow.pl
+
+## Project Description
+
+Within this personal project, I focused on automating tests for the https://bazylika-pszow.pl/ website using Playwright inconjunction with Java. My tasks included designing, developing, and maintaining automation test scripts to verify thefunctionality and behavior of the website across various browsers and platforms. I implemented test scenarios coveringdifferent aspects such as navigation, form submissions, and content validation. Additionally, these tests were integratedwith the CircleCI platform for automatic execution as part of the CI/CD process. In addition to test automation, as part ofthe testing effort, I created a test plan outlining testing techniques and conducted a risk analysis. This project provided mewith practical experience in integrating Playwright with Java and understanding the challenges and best practices of webapplication testing.
+
+### Used Testing Techniques:
+- Use Case Testing
+- Decision Table Testing
+- Syntax-based Testing
+
+### Project Contents:
+- Risk Analysis
+- Use Case Scenarios
+- Test Cases
+- Test Executions
+
+💻 [Code](https://github.com/Playwright-tests/Pszow-parish-website)
+
+![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD) ![Playwright](https://img.shields.io/badge/Playwright-%230A1A2F?style=flat&logo=Playwright&logoColor=%2EAD33) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%4F46DC)
+
+![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb)
+
+---
+
+# Automated Testing for Skleptest.pl
+
+## Project Description
+
+Within this personal project, I focused on automating tests for https://skleptest.pl/, a platform designed for practicing andlearning testing techniques. I utilized Selenium with Java for designing, developing, and maintaining automation testscripts to verify the functionality and behavior of the platform's features. I implemented various test scenarios to coverdifferent aspects such as user authentication, product browsing, cart management, and checkout processes. This homeproject provided me with practical experience in testing automation techniques while familiarizing myself with thechallenges specific to e-learning platforms.
+
+### Used Testing Techniques:
+- Use Case Testing
+- Decision Table Testing
+- Syntax-based Testing
+- Boundary Value Analysis
+
+### Project Contents:
+- Risk Analysis
+- Use Case Scenarios
+- Test Cases
+- Test Executions
+
+💻 [Code](https://github.com/Selenium-tests/Generic-Shop-website)
+
+![Java](https://img.shields.io/badge/Java-%230A1A2F?style=flat&logo=openjdk&logoColor=%236875CD) ![Selenium](https://img.shields.io/badge/Selenium-%230A1A2F?style=flat&logo=Selenium&logoColor=%43B02A) ![Qase](https://img.shields.io/badge/Qase-%230A1A2F?style=flat&logo=Qase&logoColor=%4F46DC)
+
+![Intelij Idea](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intelliJ-idea&logoColor=0a76ef) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230A1A2F?style=flat&logo=Visual%20Studio&logoColor=%2348aaeb)
