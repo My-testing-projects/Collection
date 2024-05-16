@@ -36,9 +36,10 @@ In this project, I focused on learning and gaining experience in testing the mob
 
 ### Project Contents:
 - Risk Analysis
-- Use Case Scenarios
+- Testing Techniques
 - Test Cases
 - Test Executions
+- Test reports
 
 💻 [Code](https://github.com/Appium-tests/Pszow-parish-website)
 
@@ -62,9 +63,10 @@ Within this personal project, I focused on automating tests for the https://bazy
 
 ### Project Contents:
 - Risk Analysis
-- Use Case Scenarios
+- Testing Techniques
 - Test Cases
 - Test Executions
+- Test Reports
 
 💻 [Code](https://github.com/Playwright-tests/Pszow-parish-website)
 
@@ -88,7 +90,6 @@ Within this personal project, I focused on automating tests for https://skleptes
 
 ### Project Contents:
 - Risk Analysis
-- Use Case Scenarios
 - Test Cases
 - Test Executions
 
